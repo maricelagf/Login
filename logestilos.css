@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: arial;
+}
+.contendor{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+    .mitad{
+        width: 50%;
+        height: 100%;
+        position: relative;
+        float: left;    
+    }
+
+    .izq{
+        padding: 100% 50%;
+        background: url(../fondologin.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .der{
+        padding: 100px 50px;
+        box-sizing: border-box;
+    }
